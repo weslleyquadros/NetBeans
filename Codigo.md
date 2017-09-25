@@ -33,8 +33,7 @@ public class Carros extends JFrame {
     
         public void run(){
             while(true){
-                try {sleep (20);} catch (Exception erro){}
-                lCarro1.setBounds(lCarro1.getX()+1, 0, 200, 100);
+               
          
             
             }
